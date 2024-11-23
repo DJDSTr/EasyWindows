@@ -32,7 +32,7 @@
 ### Option 2: Use Python Script (Alternative)  
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/easywindows.git
+   git clone https://github.com/DJDSTr/easywindows.git
    ```  
 
 2. **Navigate to the Directory**:  
