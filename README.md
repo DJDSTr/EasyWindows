@@ -1,4 +1,4 @@
-![EasyWindows Logo](EasyWindows.png)
+![EasyWindows Logo](Easywindows.png)
 
 # EasyWindows
 
