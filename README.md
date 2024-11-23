@@ -16,7 +16,20 @@
 
 ## Installation  
 
-### Option 1: Use Python Script  
+### Main Option: Use Pre-Built Executable  
+1. Download the pre-built EasyWindows executable from the [Releases](https://github.com/yourusername/easywindows/releases).  
+2. Place the executable in a folder of your choice.  
+3. Add the folder containing the executable to your system's PATH:  
+   - **Windows 10/11**:  
+     - Open Start Menu and search for "Environment Variables."  
+     - Click "Edit the system environment variables."  
+     - In the "System Properties" window, click "Environment Variables."  
+     - Under "System Variables," find the `Path` variable and click "Edit."  
+     - Click "New" and add the path to the folder containing the `easywindows.exe` file.  
+     - Click "OK" to save.  
+4. Open a new Command Prompt or PowerShell window to use EasyWindows globally.  
+
+### Option 2: Use Python Script (Alternative)  
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/yourusername/easywindows.git
@@ -29,19 +42,6 @@
 
 3. **Install Dependencies**:  
    EasyWindows doesn’t require external Python libraries. Ensure Python 3.7+ is installed.  
-
-### Option 2: Use Pre-Built Executable  
-1. Download the pre-built EasyWindows executable from the [Releases](https://github.com/yourusername/easywindows/releases).  
-2. Place the executable in a folder of your choice.  
-3. Add the folder containing the executable to your system's PATH:  
-   - **Windows 10/11**:  
-     - Open Start Menu and search for "Environment Variables."  
-     - Click "Edit the system environment variables."  
-     - In the "System Properties" window, click "Environment Variables."  
-     - Under "System Variables," find the `Path` variable and click "Edit."  
-     - Click "New" and add the path to the folder containing the `easywindows.exe` file.  
-     - Click "OK" to save.  
-4. Open a new Command Prompt or PowerShell window to use EasyWindows globally.  
 
 ---
 
