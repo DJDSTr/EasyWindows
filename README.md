@@ -1,6 +1,6 @@
 ![EasyWindows Logo](logo.png)
 
-# EasyWindows  
+# EasyWindows
 
 **EasyWindows** is a command-line tool designed to simplify complex Windows CMD commands into user-friendly shortcuts. With EasyWindows, you can manage processes, files, directories, and system functions with ease and speed.
 
