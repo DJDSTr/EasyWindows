@@ -132,6 +132,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support  
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/yourusername/easywindows/issues).  
+If you encounter any issues or have suggestions, please [open an issue]([https://github.com/yourusername/easywindows/issues](https://github.com/DJDSTr/EasyWindows/issues)).  
 
 ---
